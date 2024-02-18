@@ -1,3 +1,5 @@
+# step by step 해설은 ipyb 파일 참조
+
 import requests
 import json
 import pandas as pd
