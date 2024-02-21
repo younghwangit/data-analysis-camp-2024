@@ -47,6 +47,7 @@ def pubulic_api_crawling():
 
 # 서울시 API 크롤링
 # https://data.seoul.go.kr/dataList/OA-21275/S/1/datasetView.do
+# 기술문서: 샘플가이드.pdf
 
 def seoul_api_crawling():
 
