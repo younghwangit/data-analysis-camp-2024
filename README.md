@@ -3,6 +3,7 @@
 
 # 프로젝트 주요 개발환경 요약
   + Programming Languages : Python(ver. 3.12.1)
+  + Machine Learning Platform : Google colab
 
 ## 가상환경 설치
 - 폴더 최상위 경로에서 가상환경을 설치합니다.
